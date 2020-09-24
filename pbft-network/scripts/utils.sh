@@ -2,7 +2,7 @@
 
 ORGA=orga
 ORGAUSERS=(Admin User1)
-VERSION=pbft
+VERSION=latest
 
 # 复制keystore
 CPFile() {
